@@ -1,0 +1,181 @@
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: F:\projects\fyp_hamza\fyp\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, 1 May 2052
+----------
+Variant: release
+Config: debug
+Store: F:\projects\fyp_hamza\fyp\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, 1 May 2052
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: F:\projects\fyp_hamza\fyp\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, 1 May 2052
+----------
+
+> Task :react-native-community_datetimepicker:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
+----------
+
+> Task :react-native-community_masked-view:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
+----------
+
+> Task :react-native-encrypted-storage:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
+----------
+
+> Task :react-native-firebase_app:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
+----------
+
+> Task :react-native-firebase_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
+----------
+
+> Task :react-native-geolocation-service:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
+----------
+
+> Task :react-native-gesture-handler:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
+----------
+
+> Task :react-native-get-location:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
+----------
+
+> Task :react-native-maps:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
+----------
+
+> Task :react-native-pager-view:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
+----------
+
+> Task :react-native-picker_picker:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
+----------
+
+> Task :react-native-safe-area-context:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
+----------
+
+> Task :react-native-screens:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
+----------
+
+> Task :react-native-vector-icons:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hamza\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: C6:02:E7:AB:59:53:0A:C9:06:2A:6E:B4:C1:88:15:44
+SHA1: 6F:22:59:EA:69:00:15:D8:90:CC:10:80:58:2D:EA:85:53:29:BA:56
+SHA-256: 77:BC:EA:F8:80:D3:FB:43:1D:33:98:DD:23:FA:7F:48:95:56:6D:45:29:0A:1A:C7:61:4B:3C:DD:44:A8:77:6F
+Valid until: Wednesday, 15 November 2051
